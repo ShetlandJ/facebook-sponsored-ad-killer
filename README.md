@@ -1,0 +1,1 @@
+# facebook-sponsored-ad-killer
