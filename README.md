@@ -10,4 +10,4 @@
 
 5. This will load the extension into Chrome
 
-6. Facebook sponsored ads will be removed from the DOMå
+6. Facebook sponsored ads will be removed from the DOM
